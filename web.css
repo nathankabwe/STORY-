@@ -1,0 +1,32 @@
+body {
+    background-color: #F0D9FF;
+}
+hr {
+    background-color: white;
+    border-color: teal;
+    border-style: none;
+    border-top-style: dotted;
+}
+
+h1 {
+    color: teal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+img:hover {
+    background-color: green;
+}
+
+
+.circular {
+    border-radius: 10px;
+}
+
+#heading {
+    background-color: red ;
+}
+
+.dev {
+
+}
